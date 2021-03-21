@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Hall Reservation</string>
+    <string name="viewMore1">View more</string>
+    <string name="viewMore2">View more</string>
+    <string name="viewMore3">View more</string>
+    <string name="victory_lounge">Victory Lounge</string>
+    <string name="grand_ballroom">Grand Ballroom</string>
+    <string name="lavender_br">Lavender Ballroom</string>
+    <string name="btnBookNow1">Book Now</string>
+    <string name="victory_big">Victory Lounge</string>
+    <string name="txtVictory"><![CDATA[The ultimate exclusive event setting with luxurious fixtures & finishes, sweeping views of the playing surface & access to a 60 - seat private dining room.]]></string>
+    <string name="form">Banquet Hall Reservation Form</string>
+    <string name="form1">Banquet Hall Reservation</string>
+    <string name="formForm">Form</string>
+    <string name="grandBig">Grand Ballroom</string>
+    <string name="grand_big">Grand ballroom</string>
+    <string name="txtGrand"><![CDATA[Setup with a view to providing an elegant & superior banqueting space to cater to the varied requirments & access indoor spaces for 300 people.]]></string>
+    <string name="lavenderBig">Lavender Ballroom</string>
+    <string name="first_name">First Name</string>
+    <string name="selecthall">Select Hall</string>
+    <string name="selectHall">Select Hall</string>
+    <string name="firstname">First Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="email">Email</string>
+    <string name="contactno">Contact No</string>
+    <string name="preferreddate">Preferred event date</string>
+    <string name="preferredtime">Preferred event time</string>
+    <string name="numberofguests">Number of guests</string>
+    <string name="comments">Any other comments?</string>
+    <string name="btnForm">Book Now</string>
+    <string name="urDetails">Ypur Details</string>
+    <string name="yourdetails">Your Details</string>
+    <string name="txtCart">Your Cart</string>
+    <string name="numberofGuests">Number of guests</string>
+    <string name="commentsSec">Any other comments?</string>
+    <string name="fNameAnswer">Jack</string>
+    <string name="hallCharge">Rs. 100,000.00</string>
+    <string name="roomCharge">Rs. 50,000.00</string>
+    <string name="totalCh">Rs. 150,000.00</string>
+
+</resources>
